@@ -1,18 +1,27 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
-reading_time:     true
+title:            The Face of Love
+description:      Sharing my experiences of seeking after His unfathomable love
+disqus_shortname: thefaceoflove
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+#url: http://www.thefaceoflove.net
+host: 0.0.0.0
+banner:
+  image: banner.jpg
+  entryimagestyle: "top: 0px; left: 0px; bottom: 0px; right: 0px;"
+  entryheaderstyle: "height: 563px !important"
+  credit:
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  style: "top: -270px; left: 0px; width: 1263px; height: 833px; position: relative;"
+
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           The Face of Love
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Sharing my experiences of seeking after His unfathomable love"
+  email:          faceofloveblog@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -29,13 +38,13 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:  UA-60582426-1 
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Chicago
 future:      true
 highlighter: rouge
 markdown:    kramdown
