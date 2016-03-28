@@ -4,9 +4,9 @@ title: How can it be?
 description:
 tags: [music]
 image:
-  feature:
-  credit: test
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: how-can-it-be.jpg
+  credit: Pawel Kadysz
+  creditlink: https://stocksnap.io/photo/EKBP8Q0PG1
 ---
 
 I just heard a new (to me) song that was released by [Lauren Daigle](http://laurendaigle.com/site/) called *How Can it Be*.
