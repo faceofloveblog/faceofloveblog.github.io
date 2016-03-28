@@ -7,6 +7,7 @@ image:
   feature: how-can-it-be.jpg
   credit: Pawel Kadysz
   creditlink: https://stocksnap.io/photo/EKBP8Q0PG1
+  style: "height: 833px; left: 0px; top: -300px;"
 ---
 
 I just heard a new (to me) song that was released by [Lauren Daigle](http://laurendaigle.com/site/) called *How Can it Be*.
