@@ -7,6 +7,7 @@ image:
   feature: he-is-risen-2.jpg
   credit: Aaron Burden
   creditlink: https://stocksnap.io/photo/QHRMSVOV80
+  style: "top: -315px; left: 0px; height: 833px"
 ---
 
 I heard a new song by [Bethel Music](//bethelmusic.com) last week that quickly became my Easter song for 2016.  (It feels like I find a new song each year that is so fitting for celebrating Easter and I end up listening it multiple times over the Easter weekend.)
