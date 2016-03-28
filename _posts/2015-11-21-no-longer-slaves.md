@@ -7,6 +7,7 @@ image:
   feature: no-longer-slaves-2.jpg
   credit: Joshua Earle
   creditlink: https://stocksnap.io/photo/0YY3PP9OHA
+  style: "height: 833px; left: 0px; top: -235px;"
 ---
 
 I found a song about a month ago that has been wrecking me - in a good way. I've been studying a lot about [abiding in God, and God abiding in me][0]. I've been learning about how fear gets in the way of my relationship with God and how [God's perfect love casts out my fears][1]. Of course, as shown in my previous posts, I've been feeling overwhelming freedom from shame.
