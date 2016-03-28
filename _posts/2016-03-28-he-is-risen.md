@@ -1,7 +1,7 @@
 ---
 layout: post
 title: He is Risen
-description: A new song for Easter: Son of God by Bethel Music
+description: A new song for Easter - Son of God by Bethel Music
 tags: [music]
 image:
   feature: he-is-risen-2.jpg
