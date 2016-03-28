@@ -4,9 +4,9 @@ title: No Longer Slaves
 description:
 tags: [music]
 image:
-  feature: no-longer-slaves.jpg
-  #credit: dargadgetz
-  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: no-longer-slaves-2.jpg
+  credit: Joshua Earle
+  creditlink: https://stocksnap.io/photo/0YY3PP9OHA
 ---
 
 I found a song about a month ago that has been wrecking me - in a good way. I've been studying a lot about [abiding in God, and God abiding in me][0]. I've been learning about how fear gets in the way of my relationship with God and how [God's perfect love casts out my fears][1]. Of course, as shown in my previous posts, I've been feeling overwhelming freedom from shame.
