@@ -28,7 +28,7 @@ This new song encompasses all of these things. The song is *No Longer Slaves* by
     
     Chorus
     
-    I.m no longer a slave to fear
+    I'm no longer a slave to fear
     I am a child of God
     
     Verse 2
@@ -36,7 +36,7 @@ This new song encompasses all of these things. The song is *No Longer Slaves* by
     From my Mothers womb
     You have chosen me
     Love has called my name
-    I.ve been born again, into your family
+    I've been born again, into your family
     Your blood flows through my veins
     
     Interlude
